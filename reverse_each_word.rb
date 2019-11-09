@@ -1,1 +1,3 @@
-reverse_each_word = "I want icecream"
+icecream = "I want icecream"
+def icecream(flavor)
+  flavor.reverse do |icecream|
